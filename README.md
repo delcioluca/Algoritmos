@@ -1,2 +1,2 @@
 # Algoritmos
- Aprendizagem de algortimos em linguagem Portugol
+ Estudo de algortimos em linguagem Portugol
